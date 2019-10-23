@@ -1,0 +1,15 @@
+.comment-container {
+  display: flex;
+  margin: 10px 0 0;
+}
+.comment-container img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+.comment-container div {
+  margin-left: 10px;
+  padding: 15px;
+  background-color: #EEE;
+  border-radius: 20px;
+}

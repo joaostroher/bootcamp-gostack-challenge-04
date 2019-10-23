@@ -1,0 +1,43 @@
+.post-container {
+  background-color: #FFF;
+  border-radius: 4px;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.25);
+  padding: 20px;
+  margin: 20px 0 0;
+}
+
+.post-header {
+  display: flex;
+}
+
+.post-header img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10px 0 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.user-info span {
+  font-size: 11px;
+  color: #9A9A9A;
+  font-weight: 300;
+  margin: 2px 0px;
+}
+
+.post-message {
+  padding: 20px 0 0;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #EEE;
+  margin: 20px 0;
+}
